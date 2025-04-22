@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Rafay
 ===================================================================================================================================
 
-Software Engineer | Passionate about Crafting Robust Solutions | AWS | AI Enthusiast | Python/Django
+Software Engineer | Backend Python Developer | Machine Learning | Deep Learning | AWS | Django/Flask |
 ----------------------------------------------------------------------------------------------------
 
 "Driving innovation through cutting-edge technology, I'm a seasoned Backend Developer and Software Engineer with a passion for crafting scalable, efficient, and user-centric web applications. Leveraging expertise in Python, Django, PostgreSQL, Celery, Redis, and AWS. My portfolio showcases expertise through projects like a real-time Weather Application, secure Mini Blog, and intuitive Resume Uploader. Continuously expanding my skillset through certifications in Python, JavaScript, and AI from Coursera, I stay ahead of the curve in software development."
